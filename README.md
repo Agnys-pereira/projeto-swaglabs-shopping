@@ -12,3 +12,4 @@ Assim que = O produto estiver disponoivel
 
 Cenario : Receber uma notificaçao 
 Dado que = Determinado o usuario prescisa ser cadastrado 
+Quando= o usuario confirmar o alerta de notificaçao entao o alerta  e criado para enviar o  email.
